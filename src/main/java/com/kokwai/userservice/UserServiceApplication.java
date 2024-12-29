@@ -13,6 +13,3 @@ public class UserServiceApplication {
 	}
 
 }
-
-
-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
